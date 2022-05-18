@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "51864905969",
+    "firebase_url": "https://my-project-1549807020614.firebaseio.com",
+    "project_id": "my-project-1549807020614",
+    "storage_bucket": "my-project-1549807020614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51864905969:android:6c1f26e93901f49ef76150",
+        "android_client_info": {
+          "package_name": "com.yufixitcustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51864905969-4tuk52b4du4dtdo3h70tn1nbif1ajjjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yufixitcustomer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "51864905969-ba3b75jtupqfrkctim71qi20vimq4q73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yufixitcustomer",
+            "certificate_hash": "307527dcc5f9b51eb80660e2baef12a3b135cbf1"
+          }
+        },
+        {
+          "client_id": "51864905969-lo0l0dn96so37ldjkvvc36255qgjitlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yufixitcustomer",
+            "certificate_hash": "1175ce1b4df28ba726c4189aedd35340dd454fce"
+          }
+        },
+        {
+          "client_id": "51864905969-vpnmvi4378659ugm3etiqm1otedmu9k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxEqz8fQedHnDlXhy3CCkA87lLj2yKggQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51864905969-vpnmvi4378659ugm3etiqm1otedmu9k8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51864905969-6g1behnk8dakt6ttv8eofoebgj70k18e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.customerY.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51864905969:android:99db7bfc89ff3520f76150",
+        "android_client_info": {
+          "package_name": "com.yufixitprotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51864905969-gb7g07ibk581v4kcequlsb4hd6l5vdpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yufixitprotech",
+            "certificate_hash": "d4f78b1fe2becece2fa1198f0f6d2aeb2f1f7669"
+          }
+        },
+        {
+          "client_id": "51864905969-lai7rnj9i35duciica7tl9fkatacskth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yufixitprotech",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "51864905969-vpnmvi4378659ugm3etiqm1otedmu9k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxEqz8fQedHnDlXhy3CCkA87lLj2yKggQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51864905969-vpnmvi4378659ugm3etiqm1otedmu9k8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51864905969-6g1behnk8dakt6ttv8eofoebgj70k18e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.customerY.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

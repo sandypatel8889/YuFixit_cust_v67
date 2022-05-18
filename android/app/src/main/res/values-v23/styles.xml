@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Add the following line to set the default status bar text color for all the app
+        to be a light color (false) or a dark color (true) -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+</resources>
